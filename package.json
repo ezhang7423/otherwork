@@ -1,0 +1,23 @@
+{
+  "name": "otherwork",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ezhang7423/otherwork.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ezhang7423/otherwork/issues"
+  },
+  "homepage": "https://github.com/ezhang7423/otherwork#readme",
+  "dependencies": {
+    "bayes": "^1.0.0"
+  }
+}
